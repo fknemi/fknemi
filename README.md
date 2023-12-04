@@ -2,7 +2,6 @@
 
 ### I'm a Student and Developer!
 - I primarily work with Typescript and Python
-- Currently experimenting with C++ and diving into the world of Haskell and Scala.
 - I enjoy working on the web
 
 
