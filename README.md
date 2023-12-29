@@ -1,4 +1,4 @@
-## Hey there, I'm shhmag 👋
+## Hey there, I'm nemi 👋
 
 ### I'm a Student and Developer!
 - I primarily work with Typescript and Python
