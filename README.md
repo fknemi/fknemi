@@ -28,5 +28,4 @@
 <br />
 <br />
 
-## My Github Stats
-<img align="left" alt="fknemi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fknemi&show_icons=true&hide_border=true">
+<!-- ## My Github Stats <img align="left" alt="fknemi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fknemi&show_icons=true&hide_border=true"> -->
