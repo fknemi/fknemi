@@ -3,6 +3,7 @@
 ### I'm a Student and Developer!
 - I primarily work with Typescript and Python
 - I enjoy working on the web
+- I'm currently a junior at PIEMR, IN
 
 
 
