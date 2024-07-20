@@ -14,6 +14,6 @@
 
 
 <p align-items="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fknemi&show_icons=true&theme=bear&hide_border=true" width="400" height="200">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fknemi&theme=dark&hide_border=true&card_height=205" width="400" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=fknemi&theme=dark&show_icons=true&hide_border=true&count_private=true" width="400" height="200">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fknemi&theme=dark&hide_border=true" width="400" height="200">
 </p>
