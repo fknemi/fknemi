@@ -8,4 +8,4 @@
 
 
 ### 📚 Languages That I Know
-- JavaScript, TypeScript, Python, Golang, C++, Ruby, Lua, Haskell
+- JavaScript, TypeScript, Python, Golang, C++, Java
