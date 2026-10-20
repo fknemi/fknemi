@@ -27,7 +27,7 @@ jobs:
           #   https://gh.yourdomain.com
           #   https://gh-ascii.fly.dev
           #   https://gh-ascii-yourname.vercel.app
-          GH_ASCII_URL: https://gh-ascii.fknemi.dev/
+          GH_ASCII_URL: https://gh-ascii.fknemi.dev
           # Optional: ASCII resolution, 40-160 (default 100).
           # COLS: "120"
         run: |
